@@ -1,0 +1,9 @@
+name: UpgradedWhitelist
+version: '1.0-SNAPSHOT'
+commands:
+   wlist:
+     description: Whitelist by WhityFox
+     usage: /wlist
+     aliases: [wl]
+main: me.whityfox.upgradedWhitelist.UpgradedWhitelist
+api-version: '1.20'
